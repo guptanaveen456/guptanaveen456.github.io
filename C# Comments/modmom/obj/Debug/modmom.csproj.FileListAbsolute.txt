@@ -1,0 +1,35 @@
+C:\Users\vijbod58\source\repos\modmom\modmom\bin\Debug\modmom.exe.config
+C:\Users\vijbod58\source\repos\modmom\modmom\bin\Debug\modmom.xml
+C:\Users\vijbod58\source\repos\modmom\modmom\bin\Debug\modmom.exe
+C:\Users\vijbod58\source\repos\modmom\modmom\bin\Debug\modmom.pdb
+C:\Users\vijbod58\source\repos\modmom\modmom\obj\Debug\modmom.csproj.CoreCompileInputs.cache
+C:\Users\vijbod58\source\repos\modmom\modmom\obj\Debug\modmom.exe
+C:\Users\vijbod58\source\repos\modmom\modmom\obj\Debug\modmom.pdb
+C:\Users\vijbod58\source\repos\modmom\modmom\obj\Debug\modmom.csproj.AssemblyReference.cache
+C:\modmom_hello_dummy\mod_dummi\modmom\bin\Debug\modmom.exe.config
+C:\modmom_hello_dummy\mod_dummi\modmom\bin\Debug\modmom.xml
+C:\modmom_hello_dummy\mod_dummi\modmom\bin\Debug\modmom.exe
+C:\modmom_hello_dummy\mod_dummi\modmom\bin\Debug\modmom.pdb
+C:\modmom_hello_dummy\mod_dummi\modmom\obj\Debug\modmom.csproj.AssemblyReference.cache
+C:\modmom_hello_dummy\mod_dummi\modmom\obj\Debug\modmom.csproj.SuggestedBindingRedirects.cache
+C:\modmom_hello_dummy\mod_dummi\modmom\obj\Debug\modmom.csproj.CoreCompileInputs.cache
+C:\modmom_hello_dummy\mod_dummi\modmom\obj\Debug\modmom.exe
+C:\modmom_hello_dummy\mod_dummi\modmom\obj\Debug\modmom.pdb
+C:\Users\anil.birajdar\Desktop\vijya\Modmom_Vijaya\modmom\bin\Debug\modmom.exe.config
+C:\Users\anil.birajdar\Desktop\vijya\Modmom_Vijaya\modmom\bin\Debug\modmom.xml
+C:\Users\anil.birajdar\Desktop\vijya\Modmom_Vijaya\modmom\bin\Debug\modmom.exe
+C:\Users\anil.birajdar\Desktop\vijya\Modmom_Vijaya\modmom\bin\Debug\modmom.pdb
+C:\Users\anil.birajdar\Desktop\vijya\Modmom_Vijaya\modmom\obj\Debug\modmom.csproj.AssemblyReference.cache
+C:\Users\anil.birajdar\Desktop\vijya\Modmom_Vijaya\modmom\obj\Debug\modmom.csproj.SuggestedBindingRedirects.cache
+C:\Users\anil.birajdar\Desktop\vijya\Modmom_Vijaya\modmom\obj\Debug\modmom.csproj.CoreCompileInputs.cache
+C:\Users\anil.birajdar\Desktop\vijya\Modmom_Vijaya\modmom\obj\Debug\modmom.exe
+C:\Users\anil.birajdar\Desktop\vijya\Modmom_Vijaya\modmom\obj\Debug\modmom.pdb
+C:\Users\anil.birajdar\Desktop\tfs-doc-demo\ModMOM_Documentation\C# Comments\modmom\bin\Debug\modmom.exe.config
+C:\Users\anil.birajdar\Desktop\tfs-doc-demo\ModMOM_Documentation\C# Comments\modmom\bin\Debug\modmom.xml
+C:\Users\anil.birajdar\Desktop\tfs-doc-demo\ModMOM_Documentation\C# Comments\modmom\bin\Debug\modmom.exe
+C:\Users\anil.birajdar\Desktop\tfs-doc-demo\ModMOM_Documentation\C# Comments\modmom\bin\Debug\modmom.pdb
+C:\Users\anil.birajdar\Desktop\tfs-doc-demo\ModMOM_Documentation\C# Comments\modmom\obj\Debug\modmom.csproj.AssemblyReference.cache
+C:\Users\anil.birajdar\Desktop\tfs-doc-demo\ModMOM_Documentation\C# Comments\modmom\obj\Debug\modmom.csproj.SuggestedBindingRedirects.cache
+C:\Users\anil.birajdar\Desktop\tfs-doc-demo\ModMOM_Documentation\C# Comments\modmom\obj\Debug\modmom.csproj.CoreCompileInputs.cache
+C:\Users\anil.birajdar\Desktop\tfs-doc-demo\ModMOM_Documentation\C# Comments\modmom\obj\Debug\modmom.exe
+C:\Users\anil.birajdar\Desktop\tfs-doc-demo\ModMOM_Documentation\C# Comments\modmom\obj\Debug\modmom.pdb
